@@ -56,5 +56,6 @@ setup(
     ],
     keywords=[
         'geo'
-    ]
+    ],
+    install_requires=['polyline']
 )
